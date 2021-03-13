@@ -1,4 +1,4 @@
-Homework1/Set.java
- Homework1.Set
-Homework1/Homework.java
- Homework1.Homework
+Homework1/Customer.java
+ Homework1.Customer
+Homework1/List.java
+ Homework1.List
